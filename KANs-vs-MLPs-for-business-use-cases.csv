@@ -1,6 +1,6 @@
 MLP Use Case,Traditional MLP Approach,New KAN Approach
 Customer Segmentation,Fixed activation functions often miss nuanced customer behavior patterns.,"Learnable activation functions on edges capture complex customer behaviors more accurately, leading to better segmentation."
-Financial Forecasting,"Requires large networks for accuracy, leading to high computational costs and potential overfitting.","Achieves high accuracy with smaller models due to learnable functions, reducing costs and improving predictions."
+Financial Forecasting,"Requires large networks for accuracy which leads to high computational costs and potential overfitting.","Achieves high accuracy with smaller models due to learnable functions, reducing costs and improving predictions."
 Supply Chain Optimization,Struggles with the intricate, non-linear relationships in supply chain dynamics.,"Models complex relationships effectively, improving demand forecasting and inventory management for cost efficiency."
 Customer Support Automation,Provides generic responses, leading to customer frustration.,"Delivers more accurate and satisfying responses by understanding nuanced customer queries, enhancing customer satisfaction."
 Product Recommendation Systems,Offers broad, less personalized recommendations.,"Provides highly personalized recommendations by accurately learning user preferences, increasing engagement and sales."
